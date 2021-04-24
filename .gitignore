@@ -1,0 +1,18 @@
+# maven
+target
+
+# idea
+.idea
+*.iml
+
+# vscode
+.vscode
+
+# application logging
+logs
+
+# helm
+k8s/**/*.tgz
+
+# osx
+.DS_Store
