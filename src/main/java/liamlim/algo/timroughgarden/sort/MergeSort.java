@@ -8,11 +8,14 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
+// https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/tutorial/
+// https://www.youtube.com/watch?v=rBd5w0rQaFo&list=PLEGCF-WLh2RLHqXx6-GZr_w7LgqKDXxN_&index=6&ab_channel=StanfordAlgorithms
+
 public class MergeSort {
 
   @Test
   public void test_mergeSort() {
-    List<Integer> input = Arrays.asList(5, 4, 1, 8, 7, 2, 6, 3, 9);
+    List<Integer> input = Arrays.asList(5, 4, 1, 8, 7, 2, 6, 3, 9, 2, 2);
     List<Integer> output = mergeSort(input);
 
     Collections.sort(input);
