@@ -1,4 +1,4 @@
-package liamlim.algo.timroughgarden.sort;
+package liamlim.algo.timroughgarden.sorting;
 
 import org.junit.Assert;
 import org.junit.Test;
