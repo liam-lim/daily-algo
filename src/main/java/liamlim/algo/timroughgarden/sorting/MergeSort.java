@@ -27,7 +27,7 @@ public class MergeSort {
 
   private static List<Integer> mergeSort(List<Integer> input) {
 
-    if (input.size() < 2) {
+    if (input.size() <= 1) {
       return input;
     }
 
