@@ -14,7 +14,7 @@ import java.util.List;
 public class MergeSort {
 
   @Test
-  public void test_mergeSort() {
+  public void test_merge_sort() {
     List<Integer> input = Arrays.asList(5, 4, 1, 8, 7, 2, 6, 3, 9, 2, 2);
     List<Integer> output = mergeSort(input);
 
