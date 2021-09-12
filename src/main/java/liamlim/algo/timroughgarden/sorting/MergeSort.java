@@ -8,8 +8,10 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-// https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/tutorial/
-// https://www.youtube.com/watch?v=rBd5w0rQaFo&list=PLEGCF-WLh2RLHqXx6-GZr_w7LgqKDXxN_&index=6&ab_channel=StanfordAlgorithms
+/**
+ * https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/tutorial/
+ * https://www.youtube.com/watch?v=rBd5w0rQaFo&list=PLEGCF-WLh2RLHqXx6-GZr_w7LgqKDXxN_&index=6&ab_channel=StanfordAlgorithms
+ */
 
 public class MergeSort {
 

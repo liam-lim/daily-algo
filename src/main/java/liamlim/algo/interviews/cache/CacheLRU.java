@@ -7,7 +7,9 @@ import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.Map;
 
-// https://www.interviewcake.com/concept/java/lru-cache
+/**
+ * https://www.interviewcake.com/concept/java/lru-cache
+ */
 
 public class CacheLRU {
 
