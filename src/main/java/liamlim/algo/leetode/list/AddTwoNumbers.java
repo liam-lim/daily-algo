@@ -1,4 +1,4 @@
-package liamlim.algo.leetode;
+package liamlim.algo.leetode.list;
 
 import org.junit.Assert;
 import org.junit.Test;
